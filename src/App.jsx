@@ -7,7 +7,9 @@ import { BrowserRouter, createBrowserRouter, createRoutesFromElements, RouterPro
 function App() {
   // const router = createBrowserRouter
   return(
- 
+ <div>
+    <NavBar />
+ </div>
   )
 }
 
